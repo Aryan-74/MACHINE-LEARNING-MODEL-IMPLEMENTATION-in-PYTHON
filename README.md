@@ -83,9 +83,14 @@ Task 4 offered a well-rounded introduction to real-world machine learning using 
 
 SMS SPAM DATASET : <img width="451" height="243" alt="image" src="https://github.com/user-attachments/assets/1b3abeb5-b950-494d-8e30-1cebc89e5d82" />
 
-OUTPUT : <img width="531" height="263" alt="image" src="https://github.com/user-attachments/assets/2ae6f7c9-cb4b-4d03-b165-f07b7e7a0510" />
+OUTPUT :-
+
+<img width="531" height="263" alt="image" src="https://github.com/user-attachments/assets/2ae6f7c9-cb4b-4d03-b165-f07b7e7a0510" />
 
 <img width="675" height="556" alt="image" src="https://github.com/user-attachments/assets/5c4a9127-dcf8-4c8b-ae0a-968f8280a9e2" />
+
+<img width="674" height="304" alt="image" src="https://github.com/user-attachments/assets/fe3e6888-5b29-4544-a387-30f5a6154a37" />
+
 
 
 
